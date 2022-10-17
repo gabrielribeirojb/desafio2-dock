@@ -6,10 +6,10 @@ Pré-requisitos: Java 8
 
 ```bash
 # clonar repositório
-git clone https://github.com/gabrielribeirojb/projeto-sds3.git
+git clone https://github.com/gabrielribeirojb/desafio2-dock
 
 # entrar na pasta do projeto back end
-cd backend
+cd Desafio-API-Rest-Java
 
 # executar o projeto
 ./mvnw spring-boot:run
