@@ -17,6 +17,6 @@ cd Desafio-API-Rest-Java
 
 ## Importar a collection abaixo no Postman:
 
-(https://github.com/gabrielribeirojb/itens-para-readme/tree/main/desafio-dock)
+https://github.com/gabrielribeirojb/itens-para-readme/blob/main/desafio-dock/DesafioDockJava.postman_collection.json
 
 ### Rodar cada um dos paths disponíveis na collection e partir pro abraço :)
